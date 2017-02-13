@@ -6,9 +6,11 @@ Video dehazing has a wide range of real-time applications, but the challenges ma
 
 If you use these codes in your research, please cite:
 
-	@article{cai2016stmrf,
-		author = {Bolun Cai, Xiangmin Xu and Dacheng Tao},
-		title={Real-time Video Dehazing based on Spatio-temporal MRF},
-		booktitle={Pacific Rim Conference on Multimedia},
-		year={2016}
+	@inproceedings{cai2016stmrf,
+	  author={Cai, Bolun and Xu, Xiangmin and Tao, Dacheng},
+	  title={Real-Time Video Dehazing Based on Spatio-Temporal MRF},
+	  booktitle={Pacific Rim Conference on Multimedia},
+	  pages={315--325},
+	  year={2016},
+	  organization={Springer}
 	}
