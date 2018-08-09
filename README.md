@@ -47,4 +47,4 @@ mex MinPooling.cpp
 ```
 
 ### Demo
-<iframe height=498 width=510 src='http://player.youku.com/embed/XMTU1NTAwOTAwMA==' frameborder=0 'allowfullscreen'></iframe>
+http://player.youku.com/player.php/sid/XMTU1NTAwOTAwMA==/v.swf
